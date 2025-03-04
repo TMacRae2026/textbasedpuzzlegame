@@ -96,12 +96,6 @@ public class TextBasedPuzzleGame {
                            In the corner, a small table holds a single, unlit candle.
                            You try to pickup the candle to examine it but you find that the candle is superglued to the table.""",
         false));
-        //TEST TEST TEST TEST TEST TEST TEST TEST TEST TSET
-        rooms.add(new Room("""
-                                  The room is small and sparsely furnished, with a low wooden table at the center. On the table lies an old, brass compass. 
-                                  The compass needle spins wildly for a moment before it suddenly points unwaveringly to the north. 
-                                  The walls are adorned with faint markings, possibly a map, but it's hard to decipher in the dim light. The air feels still, as if time itself is uncertain here.""",compassRoomItems
-                ,false));
 
         
         while(numbOfRooms != 0){
